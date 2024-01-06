@@ -1,1 +1,2 @@
 html page created
+js page created
